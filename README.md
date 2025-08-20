@@ -1,2 +1,2 @@
-# UK-Gas-Demand-Forecasting
-The repos is for UK Gas Demand Forecasting Notebooks with SARIMAX LSTM RNN and GRU models
+# UK-LDZ EA-Gas-Demand-Time-Series-Forecasting
+The repos is for UK LDZ EA Gas Demand Forecasting. 
